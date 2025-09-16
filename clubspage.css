@@ -1,0 +1,30 @@
+body{
+    background-image: url(pic.jpeg);
+    background-position: fixed;
+    background-attachment: fixed;
+    background-size: 1280px 600px;
+    
+}
+a:link{
+    text-decoration:none;
+    color:black;
+} 
+.button{
+    margin-left: 40px;
+}
+.table-container {
+    width: 80%;
+    margin-top:50px;
+    opacity:0.9;
+    
+}
+.button{
+    margin-left: 40px;
+}
+.table-hover tbody tr:hover {
+    cursor: pointer;
+}
+.home{
+    margin-top:30px;
+    margin-left:40px;
+}

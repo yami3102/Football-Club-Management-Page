@@ -1,0 +1,21 @@
+body{
+    background-image: url(pic.jpeg);
+    position:sticky;
+    background-repeat:no-repeat;
+    background-size: 1280px 600px;
+    background-attachment: fixed;
+}
+.box{
+    max-width:80%;
+    margin:50px auto;
+    background:rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(15, 15, 15,0.1);
+    opacity:0.9;
+    
+}
+.home{
+    margin-top: 30px;
+    margin-left: 50px;
+}
